@@ -1,3 +1,12 @@
+body{
+	font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 15px;
+}
+
 .header-navbar-container{
 	margin-bottom: 30px;
+}
+
+.list-group{
+	border-radius: 0px;
 }
