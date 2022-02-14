@@ -21,6 +21,11 @@ img{
 	width: 100%;
 }
 
+.list-group,
+.card{
+	margin-bottom: 10px;
+}
+
 .top-banner-image-container{
 	margin-bottom: 10px;
 }
