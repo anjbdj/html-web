@@ -21,6 +21,13 @@ img{
 	width: 100%;
 }
 
+.top-banner-image-container{
+	margin-bottom: 10px;
+}
+.navbar-toggler{
+	border-radius: 0px;
+}
+
 .list-group{
 	border-radius: 0px;
 }
