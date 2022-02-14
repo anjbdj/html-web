@@ -11,6 +11,10 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+img{
+	max-width:100%;
+}
 .header-navbar-container{
 	 background-color: #eaeaea;
 	margin-bottom: 30px;
