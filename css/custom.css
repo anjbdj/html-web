@@ -28,12 +28,8 @@ img{
     background-color: #00adbc;
 }
 
- 
-a{
-	color: #ffffff;
-}
-
 .header-navbar-container a{
+	color: #ffffff;
 	border-bottom: solid 2px transparent;
 }
 
