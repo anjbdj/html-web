@@ -24,6 +24,10 @@ img{
 	width: 100%;
 }
 
+.bg-light {
+    background-color: #eaeaea!important;
+}
+
 .list-group,
 .card{
 	margin-bottom: 10px;
