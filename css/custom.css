@@ -19,13 +19,28 @@ img{
 	border-radius: 0px;
 }
 .header-navbar-container{
-	 background-color: #eaeaea;
+	background-color: #00adbc;
 	margin-bottom: 30px;
 	width: 100%;
 }
 
 .bg-light {
-    background-color: #eaeaea!important;
+    background-color: #00adbc;
+}
+
+ 
+a{
+	color: #ffffff;
+}
+
+.header-navbar-container a{
+	border-bottom: solid 2px transparent;
+}
+
+.header-navbar-container a:hover{
+ 	color: #ffffff;
+ 	 transition-duration: .1s;
+    border-bottom: solid 2px #ffa400;   
 }
 
 .list-group,
@@ -46,7 +61,8 @@ img{
 
 .bottom-footer{
 	margin-top: 30px;
-    background-color: #eaeaea;
+    background-color: #7665a0;
+    color: #fff;
     text-align: center;
     padding: 10px;
     font-size: 14px;
